@@ -1,4 +1,3 @@
-_site
 .sass-cache
 .jekyll-metadata
 .DS_Store
@@ -6,5 +5,3 @@ _site
 vendor
 bin
 .env
-_posts/cms
-_data/authors.yml

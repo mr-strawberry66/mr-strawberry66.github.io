@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-13T17:24:45+11:00</updated><id>/feed.xml</id><title type="html">Sam Kenney</title><subtitle>Portfolio website and blog for myself.</subtitle><entry><title type="html">CLI Note taking application</title><link href="/2021/09/12/cli-notes/" rel="alternate" type="text/html" title="CLI Note taking application" /><published>2021-09-12T00:00:00+10:00</published><updated>2021-09-12T00:00:00+10:00</updated><id>/2021/09/12/notes</id><content type="html" xml:base="/2021/09/12/cli-notes/">&lt;p&gt;For the longest time, I’ve been using sticky notes to document anything important. But let’s be honest, it’s great for noting down a quick reminder, but maybe not so much for writing down the requirements for the latest dashboard you need to develop.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m a big advocate of Vim, and love the simplicity of a CLI, so I thought to myself: why not write a CLI-based notes app.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So that’s exactly what I did.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some screenshots of the app in use.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can check out the source code &lt;a href=&quot;https://github.com/mr-strawberry66/notes/&quot;&gt;here&lt;/a&gt; if you’d like to give it a go yourself.&lt;/p&gt;</content><author><name>sam-kenney</name></author><summary type="html">For the longest time, I’ve been using sticky notes to document anything important. But let’s be honest, it’s great for noting down a quick reminder, but maybe not so much for writing down the requirements for the latest dashboard you need to develop.</summary></entry><entry><title type="html">Processing images with Python</title><link href="/2021/09/10/python-image-processing/" rel="alternate" type="text/html" title="Processing images with Python" /><published>2021-09-10T00:00:00+10:00</published><updated>2021-09-10T00:00:00+10:00</updated><id>/2021/09/10/image-processing</id><content type="html" xml:base="/2021/09/10/python-image-processing/">&lt;p&gt;Test&lt;/p&gt;</content><author><name>sam-kenney</name></author><summary type="html">Test</summary></entry><entry><title type="html">Tracking a face using Python and an Arduino UNO</title><link href="/2021/09/01/face-tracking/" rel="alternate" type="text/html" title="Tracking a face using Python and an Arduino UNO" /><published>2021-09-01T00:00:00+10:00</published><updated>2021-09-01T00:00:00+10:00</updated><id>/2021/09/01/face-tracking</id><content type="html" xml:base="/2021/09/01/face-tracking/">&lt;p&gt;Computer vision is a subject that has always interested me. From a workplace perspective, I thought about being able to read contracts and extract data from them to use in some of our automated processes.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I couldn’t get the sign off to spend time doing that, so I thought the next best thing would be to build something for myself.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, I invested in an &lt;a href=&quot;https://www.jaycar.com.au/arduino-compatible-duinotech-learning-kit/p/XC3900&quot;&gt;Arduino starter kit&lt;/a&gt; and decided to make a webcam that will follow my face as I move around.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;To do this, I needed to learn some of the &lt;a href=&quot;https://docs.opencv.org/master/index.html&quot;&gt;Open CV&lt;/a&gt; Python library, as well as some basic C++ in order to interface with the Arduino itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some images / videos here&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As always, you can find the source code for the project &lt;a href=&quot;https://github.com/mr-strawberry66/face_recognition&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>sam-kenney</name></author><summary type="html">Computer vision is a subject that has always interested me. From a workplace perspective, I thought about being able to read contracts and extract data from them to use in some of our automated processes.</summary></entry><entry><title type="html">What Comes Next?</title><link href="/music/what-comes-next" rel="alternate" type="text/html" title="What Comes Next?" /><published>2021-06-26T00:00:00+10:00</published><updated>2021-06-26T00:00:00+10:00</updated><id>/music/what-comes-next</id><content type="html" xml:base="/music/what-comes-next">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&quot;&gt;What Comes Next?&lt;/a&gt; was the debut album for the band &lt;a href=&quot;https://www.facebook.com/WorstCaseScenarioUK&quot;&gt;Worst Case Scenario&lt;/a&gt;. 
+&lt;br /&gt;
+&lt;br /&gt;
+On this album, I wrote a number of the song’s instrumentals including &lt;a href=&quot;https://www.youtube.com/watch?v=0qN5IFM9Kws&amp;amp;list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&amp;amp;index=3&amp;amp;ab_channel=WorstCaseScenario-Topic&quot;&gt;Stalemate&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=E0o-yeEwELg&amp;amp;list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&amp;amp;index=5&amp;amp;ab_channel=WorstCaseScenario-Topic&quot;&gt;A Monument To Your Sins&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=wYtFZHFVqjM&amp;amp;list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&amp;amp;index=6&amp;amp;ab_channel=WorstCaseScenario-Topic&quot;&gt;Chasms&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/watch?v=b9iqEfOHgHU&amp;amp;list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&amp;amp;index=7&amp;amp;ab_channel=WorstCaseScenario-Topic&quot;&gt;Sun &amp;amp; Moon&lt;/a&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+I also contributed a significant amount to the instrumentals of &lt;a href=&quot;https://www.youtube.com/watch?v=VjexiEjlnIA&amp;amp;list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&amp;amp;ab_channel=WorstCaseScenario-Topic&quot;&gt;Terrorist Synthesiser&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/watch?v=TkZPsQ6uCgA&amp;amp;list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&amp;amp;index=2&amp;amp;ab_channel=WorstCaseScenario-Topic&quot;&gt;It’s Always Sunny In February&lt;/a&gt;.&lt;/p&gt;</content><author><name>sam-kenney</name></author><summary type="html">What Comes Next? was the debut album for the band Worst Case Scenario. On this album, I wrote a number of the song’s instrumentals including Stalemate, A Monument To Your Sins, Chasms, and Sun &amp;amp; Moon. I also contributed a significant amount to the instrumentals of Terrorist Synthesiser, and It’s Always Sunny In February.</summary></entry></feed>
