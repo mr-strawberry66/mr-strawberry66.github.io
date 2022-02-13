@@ -1,0 +1,15 @@
+<footer>
+  <div>
+    <ul>
+      {% for item in site.data.menu_footer %}
+      <strong>
+        <li class="footer_nav">
+          <a href="{{ item.url }}" target="_blank">
+            <img src="{{ item.img }}" class="footer_img">
+          </a>
+        </li>
+      </strong>
+      {% endfor %}
+    </ul>
+  </div>
+</footer>

@@ -1,0 +1,9 @@
+- name: Home
+  url: /
+  published: true
+- name: Projects
+  url: /projects/
+  published: false
+- name: Music
+  url: /music/
+  published: true

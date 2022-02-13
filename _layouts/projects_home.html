@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<ul class="project_wrapper">
+
+  {% assign sorted_posts = site.posts | where: 'type', page.type %}
+  {% for posts in sorted_posts %}
+  {% assign post = posts %}
+
+  <li>
+    <br>
+    <div class="projects">
+      <div class="project_block">
+        <a href="/{{ post.permalink }}">
+          <span class="project_img">
+            <img src="{{ post.hero }}" class="project_img">
+          </span>
+          <h3>
+            {{ post.short_title }}
+          </h3>
+          <br>
+          <p>
+            {{ post.summary }}
+          </p>
+        </a>
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

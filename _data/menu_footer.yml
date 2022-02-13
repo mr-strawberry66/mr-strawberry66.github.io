@@ -1,0 +1,15 @@
+- name: Github
+  url: https://github.com/mr-strawberry66
+  img: /static/site_images/github.png
+- name: LinkedIn
+  url: https://www.linkedin.com/in/sam-kenney-35b508181/
+  img: /static/site_images/linkedin.png
+- name: Twitter
+  url: https://twitter.com/SamKenney99
+  img: /static/site_images/twitter.png
+- name: Instagram
+  url: https://www.instagram.com/_samql/
+  img: /static/site_images/instagram.png
+- name: TwitchTV
+  url: https://www.twitch.tv/mrstrawberry66
+  img: /static/site_images/twitch.png

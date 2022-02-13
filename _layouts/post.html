@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="blog">
+  <p class="date">{{ page.date | date_to_long_string }}</p>
+  <br>
+  <h1>{{ page.title }}</h1>
+  <br>
+  <img src="{{ page.hero }}" class="hero_img">
+  <br>
+  <br>
+  {{content}}
+</div>

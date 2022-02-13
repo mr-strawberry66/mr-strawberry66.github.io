@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="blog">
+  <p class="date">{{ page.date | date_to_long_string }}</p>
+  <br>
+  <h1>{{ page.title }}</h1>
+  <br>
+  <img src="{{ page.hero }}" class="hero_img">
+  <br>
+  <br>
+  {{content}}
+  <br>
+  <p>You can listen at the links below.</p>
+  <br>
+  <br>
+  <div class="music_links">
+    {% for site in page.links %}
+    <a href="{{ site.url }}" target="_blank">
+      <img src="{{ site.img }}">
+    </a>
+    {% endfor %}
+  </div>
+
+</div>

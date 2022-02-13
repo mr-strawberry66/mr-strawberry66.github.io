@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+.bundle
+vendor
+bin
+.env
+_posts/cms
+_data/authors.yml

@@ -1,0 +1,33 @@
+<header>
+  <nav style="text-align: center;">
+    <ul>
+      <div class="flex_container">
+        {% for item in site.data.menu_header %}
+          {% if item.published == true %}
+            {% if page.url != item.url %}
+            <div class="nav_item">
+              <strong>
+                <li>
+                  <a href="{{ item.url }}">
+                    {{ item.name }}
+                  </a>
+                </li>
+              </strong>
+            </div>
+            {% else %}
+            <div class=" nav_item_active">
+              <strong>
+                <li>
+                  <a href="{{ item.url }}">
+                    {{ item.name }}
+                  </a>
+                </li>
+              </strong>
+            </div>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </ul>
+  </nav>
+</header>
