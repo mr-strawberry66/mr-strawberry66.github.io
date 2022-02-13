@@ -18,9 +18,9 @@ email: sam.kenney@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio website and blog for myself.
 
-domain: mr-strawberry.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: http://samkenney.com/  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /_site/      # place folder name if the site is served in a subfolder
+domain: samkenney.com  # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://mr-strawberry.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /_site/  # place folder name if the site is served in a subfolder
 twitter_username: SamKenney99
 github_username: mr-strawberry66
 
