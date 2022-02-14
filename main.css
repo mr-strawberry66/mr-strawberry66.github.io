@@ -279,4 +279,11 @@ div p {
     margin-right: auto;
     padding: 10px 0 10px 0;
   }
+  footer li {
+    display: inline-block;
+    width: 16%;
+  }
+  .footer_img {
+    max-width: 25px;
+  }
 }
