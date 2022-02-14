@@ -19,9 +19,7 @@ links:
   url: https://www.youtube.com/playlist?list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y
 ---
 [What Comes Next?](https://www.youtube.com/playlist?list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y) was the debut album for the band [Worst Case Scenario](https://www.facebook.com/WorstCaseScenarioUK). 
-<br>
-<br>
+
 On this album, I wrote a number of the song's instrumentals including [Stalemate](https://www.youtube.com/watch?v=0qN5IFM9Kws&list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&index=3&ab_channel=WorstCaseScenario-Topic), [A Monument To Your Sins](https://www.youtube.com/watch?v=E0o-yeEwELg&list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&index=5&ab_channel=WorstCaseScenario-Topic), [Chasms](https://www.youtube.com/watch?v=wYtFZHFVqjM&list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&index=6&ab_channel=WorstCaseScenario-Topic), and [Sun & Moon](https://www.youtube.com/watch?v=b9iqEfOHgHU&list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&index=7&ab_channel=WorstCaseScenario-Topic).
-<br>
-<br>
+
 I also contributed a significant amount to the instrumentals of [Terrorist Synthesiser](https://www.youtube.com/watch?v=VjexiEjlnIA&list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&ab_channel=WorstCaseScenario-Topic), and [It's Always Sunny In February](https://www.youtube.com/watch?v=TkZPsQ6uCgA&list=OLAK5uy_kjVCq38AU98RQBkjjAxkaHHHWkVjeQx7Y&index=2&ab_channel=WorstCaseScenario-Topic).

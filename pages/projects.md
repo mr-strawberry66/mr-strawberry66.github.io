@@ -6,4 +6,6 @@ type: programming
 permalink: /projects/
 ---
 
-# Coming soon!
+## Coming soon!
+
+In the mean-time, feel free to check out the projects hosted on my [GitHub page](https://github.com/mr-strawberry66).
