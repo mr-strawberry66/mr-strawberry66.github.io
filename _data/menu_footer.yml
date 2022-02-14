@@ -10,6 +10,3 @@
 - name: Instagram
   url: https://www.instagram.com/_samql/
   img: /static/site_images/instagram.png
-- name: TwitchTV
-  url: https://www.twitch.tv/mrstrawberry66
-  img: /static/site_images/twitch.png
