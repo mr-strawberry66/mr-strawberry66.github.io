@@ -3,7 +3,7 @@
   published: true
 - name: Projects
   url: /projects/
-  published: false
+  published: true
 - name: Music
   url: /music/
   published: true
