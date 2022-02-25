@@ -21,7 +21,10 @@ Down below, you can find links to my various social media platforms, where you c
     <hr>
     <label>{{skill.name}}</label>
     <br>
-    <progress value="{{skill.value}}" max="100"></progress>
+    <!-- <progress value="{{skill.value}}" max="100"></progress> -->
+    <div class="progress">
+      <div class="progress_fill" style="width: {{ skill.value }}%"></div>
+    </div>
   {% endfor %}
   <hr>
 </div>

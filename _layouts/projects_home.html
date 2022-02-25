@@ -1,32 +1,48 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+{%- include head.html -%}
 
-{{ content }}
+<body>
+  {%- include header.html -%}
 
-<ul class="project_wrapper">
+  <br>
 
-  {% assign sorted_posts = site.posts | where: 'type', page.type %}
-  {% for posts in sorted_posts %}
-  {% assign post = posts %}
-
-  <li>
+  <div class="main">
+    <h1>{{ page.header }}</h1>
     <br>
-    <div class="projects">
-      <div class="project_block">
-        <a href="/{{ post.permalink }}">
-          <span class="project_img">
-            <img src="{{ post.hero }}" class="project_img">
-          </span>
-          <h3>
-            {{ post.short_title }}
-          </h3>
-          <p>
-            {{ post.summary }}
-          </p>
-        </a>
-      </div>
+    <div class="content">
+      <br>
+      {{ content }}
     </div>
-  </li>
-  {% endfor %}
-</ul>
+
+    {% assign sorted_posts = site.posts | where: 'type', page.type %}
+    {% for posts in sorted_posts %}
+      {% assign post = posts %}
+      <br>
+
+      <div class="content">
+        <div class="post">
+          <div class="image_wrapper">
+            <a href="/{{ post.permalink }}">
+              <img src="{{ post.hero }}">
+            </a>
+          </div>
+          <div>
+            <h4>
+              <a href="/{{ post.permalink }}">
+                {{ post.summary }}
+              </a>
+            </h4>
+            <p class="post_text">
+              {{ post.short_title }}
+            </p>
+          </div>
+        </div>
+      </div>
+
+    {% endfor %}
+  </div>
+  {%- include footer.html -%}
+</body>
+
+</html>
