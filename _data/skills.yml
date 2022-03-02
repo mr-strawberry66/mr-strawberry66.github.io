@@ -1,18 +1,26 @@
 - name: Git
   value: 85
+
 - name: Python
   value: 90
+
 - name: SQL
   value: 75
+
 - name: API Integrations Development
   value: 75
+
 - name: Google Cloud Platform
   value: 70
+
 - name: Google Apps Script
   value: 50
+
 - name: JavaScript
   value: 45
+
 - name: HTML & CSS
   value: 55
+
 - name: Google Analytics
   value: 40
